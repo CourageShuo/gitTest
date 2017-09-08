@@ -7,3 +7,5 @@ TASKKILL /F /IM StudentMain.exe
 CD ./src 
 START 360cse.exe
 START thunder.exe
+CD S*
+START subl.exe
