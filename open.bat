@@ -1,0 +1,4 @@
+@COLOR 70
+@ECHO OFF
+# 打开教师机
+NET START STUDSRV
